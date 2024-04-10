@@ -8,7 +8,7 @@
 
 body {
     overflow-x: hidden;
-    background-image: url(./images/grain.jpg);
+    background-image: url(../images/grain.jpg);
     background-size: cover;
 }
 
