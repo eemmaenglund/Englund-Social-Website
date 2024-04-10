@@ -262,8 +262,14 @@ height: 100%;
   position: relative;
 }
 
+.right-container {
+  width: 200px;
+  transform: translateX(-70px);
+}
+
 .right a {
   width: 100px;
+  margin: 0 10px;
 }
 
 .right img {

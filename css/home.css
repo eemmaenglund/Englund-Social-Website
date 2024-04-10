@@ -20,12 +20,12 @@ body {
   align-items: center; 
 }
 
-ul {
+.navbar ul {
   display: flex;
   justify-content: space-around;
 }
 
-ul, li{
+.navbar ul, .navbar li{
   display: inline-block;
   list-style: none;
   padding: 0; 
@@ -302,7 +302,11 @@ height: 100%;
   width: 100%;
   left: 0;
   top: 0;
-  color: blue;
+  }
+
+  .rslides blockquote {
+    font-size: 3vmin;
+    color: #000000;
   }
 
 
