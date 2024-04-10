@@ -447,7 +447,7 @@ nav {
     padding: 10px 10px;
     width: 30%;
     text-align: center;
-    background-color: #f3efef;
+    background-color: #000000;
     border-radius: 20px;
   }
   
@@ -484,7 +484,7 @@ nav {
     padding: 15px 15px;
     width: 30%;
     text-align: center;
-    background-color: #f3efef;
+    background-color: #000000;
     border-radius: 20px;
     font-size: 1.7vmin;
   }
