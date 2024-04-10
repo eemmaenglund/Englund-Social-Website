@@ -1,3 +1,4 @@
+// jQuery shorthand for executing code when the DOM is fully loaded
 $(function(){
 
     $("#img1").parallax({
@@ -15,3 +16,5 @@ $(function(){
     });
 
 });
+
+
