@@ -5,7 +5,7 @@ $(function(){
     $("#img1").parallax({
         imageSrc: "images/emma3.jpeg" 
     });
-    // Initializing parallax effect on image with id "img2" using specified image source
+    // Initializing parallax effect on image with id "img2" using image source
     $("#img2").parallax({
         imageSrc: "images/laptop.jpg" 
     });
